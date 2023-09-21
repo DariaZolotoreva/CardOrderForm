@@ -14,7 +14,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-public class cardOrderFormTest {
+public class CardOrderFormTest {
     private WebDriver driver;
 
     @BeforeAll
